@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">trainingMaterialDesing</string>
+    <string name="FilmName">Сверхъестественное</string>
+    <string name="play">воспроизвести</string>
+    <string name="action">идет выбор</string>
+    <string name="headerPart">выберите серию</string>
+    <string name="yourSelected">вы выбрали серии от</string>
+    <string name="to">до</string>
+    <string name="series">серию</string>
+    <string name="beforeAction">Фильм доступен</string>
+</resources>

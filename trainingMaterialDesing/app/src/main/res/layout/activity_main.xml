@@ -92,5 +92,18 @@
         app:layout_constraintTop_toBottomOf="@+id/selectedPart"
         android:layout_marginTop="10dp"
         android:textColor="@color/black"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/card"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/black"
+        android:text="Пример"
+        android:background="@color/white"
+        app:strokeColor = "@color/black"
+        app:strokeWidth = "1dp"
+        style="?attr/materialButtonOutlinedStyle"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
